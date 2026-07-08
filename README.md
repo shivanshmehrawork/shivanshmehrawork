@@ -1,16 +1,70 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Shivansh Mehra</h1>
 
-<!--
-**shivanshmehrawork/shivanshmehrawork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Software Developer | Python | AI Automation | Web Development
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Building practical software solutions that solve real-world problems.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 💻 Software Developer from India 🇮🇳
+- 🌱 Currently learning Full Stack Development & AI
+- 🤖 Interested in AI Automation & Backend Development
+- 🚀 Building real-world projects
+- 📫 Reach me at:
+  **shivansh.mehra.work@gmail.com**
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+- Python
+- Java
+- JavaScript
+- SQL
+
+### Web
+
+- HTML
+- CSS
+- React (Learning)
+
+### Database
+
+- MySQL
+
+### Tools
+
+- Git
+- GitHub
+- VS Code
+
+---
+
+## 📌 Current Focus
+
+✔ Python Development
+
+✔ AI Automation
+
+✔ Web Development
+
+✔ Problem Solving
+
+---
+
+## 🌐 Connect With Me
+
+- LinkedIn (Coming Soon)
+- Portfolio (Coming Soon)
+
+---
+
+⭐ Thanks for visiting my profile.
